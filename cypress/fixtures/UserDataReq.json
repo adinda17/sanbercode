@@ -1,0 +1,27 @@
+{
+  "createUser": {
+    "name": "Dinda",
+    "job": "QA Automation"
+  },
+  "updateUser": {
+    "name": "Aulia",
+    "job": "Engineer"
+  },
+  "patchUser": {
+    "job": "Junior QA"
+  },
+  "registerSuccess": {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+  },
+  "registerFailed": {
+    "email": "adin@aulia"
+  },
+  "loginSuccess": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "loginFailed": {
+    "email": "adin@aulia"
+  }
+}
