@@ -1,0 +1,14 @@
+{
+  "validUsername": "Admin",
+  "validPassword": "admin123",
+  
+  "wrongUsername": "Admin1",
+  "wrongPassword": "admin124",
+
+  "lowerUsername": "admin",
+  "capitalPassword": "Admin123",
+
+  "ValidSearch" : "Peter",
+  "InvalidSearch" : "Dinda"
+}
+
